@@ -2,20 +2,21 @@
 "Lifelong gamer turned creator, dedicated to crafting unique experiences. I aim to contribute to the gaming world by developing titles that offer the same level of immersion and joy that defined myself today."
 
 🕹️Social Networks
-[LinkedIn](https://www.linkedin.com/in/gonzalo-liñan-aldana-934283221/) [Steam](https://steamcommunity.com/id/ItsGonso/)
+[<img width="256" height="256" alt="174857" src="https://github.com/user-attachments/assets/b0d0bc12-3202-470a-9a1f-5734d7e077aa" />
+](https://www.linkedin.com/in/gonzalo-liñan-aldana-934283221/) [Steam](https://steamcommunity.com/id/ItsGonso/)
 
 🚀 About Me
 I am a dedicated Gameplay Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD (Madrid) and a Master's Degree in Unity. My goal is to create memorable unique player experiences that can redifine the games as we know now.
 
-Key Skills:
+🗝️Key Skills:
 
 Soft Skills: High Efficiency, Collaborative Communication, Enthusiastic Problem Solver.
 
 Engines: Unreal Engine 5 (Primary), Unity.
 
-Languages: C++, C#, Java.
+🗣️Languages: C++, C#, Java.
 
-Specialties: GAS framework, Gameplay Systems and Combat Design
+🎖️Specialties: GAS framework, Gameplay Systems and Combat Design
 
 🛠 Featured Projects
 -------------------
