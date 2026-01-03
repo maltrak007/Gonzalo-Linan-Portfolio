@@ -36,8 +36,11 @@ Tech Stack: Unreal Engine 5, C++, Gameplay Ability System (GAS), Behavior Trees.
 Technical Features & Key Contributions:
 
 -Architected modular AI using GAS to create scalable enemy abilities and behaviours.
+
 -Implemented complex Behavior Trees and AI Perception systems for reactive enemy engagement.
+
 -Developed custom behavior nodes influenced by environmental hazards and enemy stats.
+
 -Focused on modular library tasks to allow rapid iteration of enemy variants.
 
 View Repository
