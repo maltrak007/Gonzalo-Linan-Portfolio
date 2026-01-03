@@ -29,6 +29,8 @@ Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games F
 
 [Ghunter Official Trailer](https://youtu.be/yjipXpGEbDo)
 
+[Gameplay Gif]
+
 📖*Description*: An action-adventure cooking game. Uncover the mysteries of Garcosa, cook and hunt your prey, deliver delicious dishes to your customers and save the King with your dishes!
 
 🧑‍💻*Role*: AI Programmer & Designer.
