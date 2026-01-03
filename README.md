@@ -25,7 +25,7 @@ Unreal Engine 5
 Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games
 [Link to the Vandal Article] [Winning Image] [Guerilla Games]
 
-(https://www.youtube.com/watch?v=yjipXpGEbDo&t=41s)
+[Ghunter Official Trailer](https://youtu.be/yjipXpGEbDo)
 
 Description:
 
