@@ -22,10 +22,10 @@ Specialties: GAS framework, Gameplay Systems and Combat Design
 Unreal Engine 5
 -------------------
 🎮 Ghunter (Award-Winning Team Project)
-Best University Game at BIG Conference Bilbao
-[Link to the Vandal Article] [Winning Image]
+Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games
+[Link to the Vandal Article] [Winning Image] [Guerilla Games]
 
-[Gameplay Gif]
+(https://www.youtube.com/watch?v=yjipXpGEbDo&t=41s)
 
 Description:
 
@@ -90,7 +90,6 @@ Educational Projects
 ->UTAD Projects
 ->MasterD Projects
 
-View Repository
 ---------------------------------
 🎓 Education & Certifications
 Master’s Degree in Videogame Programming | U-TAD, Las Rozas (Madrid).
