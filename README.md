@@ -1,5 +1,5 @@
 # Gonzalo Linan Aldana Programmer & Designer
-"Lifelong gamer turned creator, dedicated to crafting unique experiences. I aim to contribute to the gaming world by developing titles that offer the same level of immersion and joy that defined myself today."
+"Lifelong gamer turned creator, dedicated to crafting unique experiences. I aim to contribute to the gaming world by developing titles that offer the same level of immersion and joy that define who I am today."
 
 🕹️Social Networks
 
@@ -8,13 +8,13 @@
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/367db763-43b3-4e24-adb2-5939e429f503" />](https://steamcommunity.com/id/ItsGonso/)
 
 🚀 About Me
-I am a dedicated Gameplay Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD University and a Master's Degree in Unity. My goal is to create memorable unique player experiences that can redifine the games as we know now.
+I am a dedicated Gameplay Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD University and a Master's Degree in Unity. My goal is to create memorable, unique player experiences that redifine the games as we know it.
 
 🗝️Key Skills:
 
 Soft Skills: High Efficiency, Collaborative Communication, Enthusiastic Problem Solver.
 
-Engines: Unreal Engine 5 (Primary), Unity.
+Engines: Unreal Engine 5, Unity.
 
 🗣️Languages: C++, C#, Java.
 
@@ -26,11 +26,10 @@ Engines: Unreal Engine 5 (Primary), Unity.
 -------------------
 🎮 Ghunter (Award-Winning Team Project)
 Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games Festival
-[Link to the Vandal Article] [Winning Image] [Guerilla Games]
 
 [Ghunter Official Trailer](https://youtu.be/yjipXpGEbDo)
 
-📖*Description*:
+📖*Description*: An action-adventure cooking game. Uncover the mysteries of Garcosa, cook and hunt your prey, deliver delicious dishes to your customers and save the King with your dishes!
 
 🧑‍💻*Role*: AI Programmer & Designer.
 
@@ -44,32 +43,32 @@ Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games F
 
 &nbsp;&nbsp;&nbsp;-Developed custom behavior nodes influenced by environmental hazards and enemy stats.
 
-&nbsp;&nbsp;&nbsp;-Focused on modular library tasks to allow rapid iteration of enemy variants.
+&nbsp;&nbsp;&nbsp;-Created modular library tasks to allow rapid iteration of enemy variants.
 
-View Repository
+[View Repository](https://github.com/gamedevmaster/gamedevmaster_g3_2324/tree/main)
 
 🥊 Hobo-League (Solo Project - In Progress)
 Third-Person Multiplayer Casual Game
 
 [Gameplay Gif]
 
-📖*Description*:
+📖*Description*: Stand up against those sadists machines through the pain of the trials and earn your freedom.
 
 🧑‍💻*Role*: Solo Developer (Personal Project)
 
-💻*Tech Stack*: Unreal Engine 5, C++, Gameplay Ability System (GAS) + Network Replication, Chaos Destruction
+💻*Tech Stack*: Unreal Engine 5, C++, Gameplay Ability System (GAS) + Network Replication, Chaos Destruction.
 
-🚩*Objective*: Enhance architectural skills and multiplayer best practices.
+🚩*Objective*: Enhance architectural skills and multiplayer best practices,
 
 🛠️*Technical Features*:
 
-Utilized and apply agile methodologies like Kanban (Miro) and UML Diagrams for pre-production planning to ensure rapid iteration.
+&nbsp;&nbsp;&nbsp;-Applied agile methodologies using Kanban (Miro) and UML Diagrams for pre-production planning,
 
-Extensive use of good code practices to ensure best perfomance (SOLID Principles, Event-Driven Architecture, C++ Memory Management)
+&nbsp;&nbsp;&nbsp;-Applied clean code practices for peak performance (SOLID Principles, Event-Driven Architecture, C++ Memory Management)
 
-Implemented GAS framework from scratch, every system inside is built around this to alternate between C++ and Blueprints to prototype and iterate fast.
+&nbsp;&nbsp;&nbsp;-Implemented the GAS framework from scratch, building every system around it to allow seamless iteration between C++ and Blueprints.
 
-View Repository
+[View Repository](https://github.com/maltrak007/HoboLeagueProject)
 
 -------------------
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f9d765a2-19c4-4088-aeeb-c75e8850e4f4" /> Unity
@@ -81,13 +80,18 @@ Third-Person Action Game
 
 📖*Description*: A fast-paced game where you play a mage "evicting" exploiting your enemies weakness with your magic spells in a short time period. 
 
-🧑‍💻*Role*: Solo Developer (Unity Master's Project).
+🧑‍💻*Role*: Solo Developer (Unity Master's Project)
 
 💻*Tech Stack*: Unity, C#.
 
-🚩*Objective*: Understanding every aspect of the Unity engine and develop further my knowledge about C#
+🚩*Objective*: Understanding every aspect of the Unity engine and develop further my knowledge about C#.
 
 🛠️*Technical Features*:
+&nbsp;&nbsp;&nbsp;-Advanced implementation of State Machines and Animation Controllers.
+&nbsp;&nbsp;&nbsp;-Developed a responsive and modular UI/UX system.
+&nbsp;&nbsp;&nbsp;-Utilized design patterns including Singletons, Object Pooling, and Flyweight.
+
+[View Repository]()
 
 --------------------
 Educational Projects
@@ -96,9 +100,8 @@ Educational Projects
 ->MasterD Projects
 ---------------------------------
 🎓 Education & Certifications
+
 Master’s Degree in Videogame Programming | U-TAD
-[Image]
+| :---: | :---: |
 Master’s Degree in Unity Development | MasterD
-[Image]
 Higher Technician in Cross-Platform Application Development | CEU San Pablo
-[Image]
