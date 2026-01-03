@@ -2,7 +2,7 @@
 "Lifelong gamer turned creator, dedicated to crafting unique experiences. I aim to contribute to the gaming world by developing titles that offer the same level of immersion and joy that defined myself today."
 
 🕹️Social Networks
-[LinkedIn] [Steam] [CV]
+[LinkedIn](https://www.linkedin.com/in/gonzalo-liñan-aldana-934283221/) [Steam](https://steamcommunity.com/id/ItsGonso/)
 
 🚀 About Me
 I am a dedicated Gameplay Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD (Madrid) and a Master's Degree in Unity. My goal is to create memorable unique player experiences that can redifine the games as we know now.
