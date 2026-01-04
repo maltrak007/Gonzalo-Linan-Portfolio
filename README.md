@@ -82,7 +82,8 @@ Third-Person Multiplayer Casual Game
 🪄 Monster Evicter (Unity Project)
 Third-Person Action Game
 
-[Gameplay Gif]
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/f585f409-1829-4a47-be0a-f188f0af6962" />
+
 
 📖*Description*: A fast-paced game where you play a mage "evicting" exploiting your enemies weakness with your magic spells in a short time period. 
 
