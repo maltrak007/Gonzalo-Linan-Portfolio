@@ -89,11 +89,17 @@ Third-Person Action Game
 🚩*Objective*: Understanding every aspect of the Unity engine and develop further my knowledge about C#.
 
 🛠️*Technical Features*:
-&nbsp;&nbsp;&nbsp;-Created a well structured [GDD] ()
+
+&nbsp;&nbsp;&nbsp;-Created a well structured GDD to pitch to publishers and limit the scope of the project
+
 &nbsp;&nbsp;&nbsp;-Built an event-driven | component arquitechture and utilized design patterns including Singletons, Object Pooling, and Flyweight.
+
 &nbsp;&nbsp;&nbsp;-Advanced implementation of AI state machines from scrath linked with animation controllers.
+
 &nbsp;&nbsp;&nbsp;-Developed a responsive and modular UI/UX system.
+
 &nbsp;&nbsp;&nbsp;-Save system with Json conversion.
+
 &nbsp;&nbsp;&nbsp;-Sound manager system.
 
 [View Repository](https://github.com/maltrak007/Monster-Evicter)
@@ -102,8 +108,8 @@ Third-Person Action Game
 Educational Projects
 --------------------
 [UI Project](https://github.com/maltrak007/Unreal-UI-Project/tree/master/UI_GonzaloLinanAldana-master) | Unreal Engine
+
 [Chaos Destruction](https://github.com/maltrak007/Unreal-Physics-Exercises/tree/master) | Unreal Engine
-[Blueprint Third Person Shooter]() | Unreal Engine
 
 ---------------------------------
 🎓 Education & Certifications
