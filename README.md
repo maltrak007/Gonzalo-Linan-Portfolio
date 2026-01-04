@@ -22,14 +22,14 @@ Engines: Unreal Engine 5, Unity.
 
 🏆 Featured Projects
 -------------------
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1a2baa5a-af6f-490f-a4be-3dc3de46d4e3" /> Unreal Engine
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1a2baa5a-af6f-490f-a4be-3dc3de46d4e3" /> Unreal Engine
 -------------------
-🎮 Ghunter (Award-Winning Team Project)
+🎮 Ghunter
 Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games Festival
 
 [Ghunter Official Trailer](https://youtu.be/yjipXpGEbDo)
 
-[Gameplay Gif]
+![GhunterGif](https://github.com/user-attachments/assets/e01b7ec1-861c-4f05-914d-7deb9f72f62e)
 
 📖*Description*: An action-adventure cooking game. Uncover the mysteries of Garcosa, cook and hunt your prey, deliver delicious dishes to your customers and save the King with your dishes!
 
@@ -54,7 +54,7 @@ Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games F
 🥊 Hobo-League (Solo Project - In Progress)
 Third-Person Multiplayer Casual Game
 
-[Gameplay Gif]
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4e419f50-f1aa-4b61-9c8b-96b1464a5ca5" />
 
 📖*Description*: Stand up against those sadists machines through the pain of the trials and earn your freedom.
 
@@ -75,7 +75,7 @@ Third-Person Multiplayer Casual Game
 [View Repository](https://github.com/maltrak007/HoboLeagueProject)
 
 -------------------
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f9d765a2-19c4-4088-aeeb-c75e8850e4f4" /> Unity
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/66bf9113-8ce4-42cd-8099-5492c173e528" /> Unity
 -------------------
 🪄 Monster Evicter (Unity Project)
 Third-Person Action Game
