@@ -8,7 +8,7 @@
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/367db763-43b3-4e24-adb2-5939e429f503" />](https://steamcommunity.com/id/ItsGonso/)
 
 🚀 About Me
-I am a dedicated Gameplay Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD University and a Master's Degree in Unity. My goal is to create memorable, unique player experiences that redifine the games as we know it.
+I am a dedicated Gameplay Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD University and a Master's Degree in Unity. My goal is to create memorable, unique player experiences that redifine the games as we know it. My top 5 games of all times must be: Fallout New Vegas, The Last of Us, Dark Souls, Persona 5 and Inazuma Eleven.
 
 🗝️Key Skills:
 
@@ -16,7 +16,7 @@ Soft Skills: High Efficiency, Collaborative Communication, Enthusiastic Problem 
 
 Engines: Unreal Engine 5, Unity.
 
-🗣️Languages: C++, C#, Java.
+🗣️Languages: C++, C#, Java, PL/SQL.
 
 🎖️Specialties: GAS framework, Gameplay Systems and Combat Design
 
@@ -24,8 +24,10 @@ Engines: Unreal Engine 5, Unity.
 -------------------
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1a2baa5a-af6f-490f-a4be-3dc3de46d4e3" /> Unreal Engine
 -------------------
+<h2>
 🎮 Ghunter
 Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games Festival
+</h2>
 
 [Ghunter Official Trailer](https://youtu.be/yjipXpGEbDo)
 
@@ -51,9 +53,9 @@ Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games F
 
 [For whole project](https://github.com/gamedevmaster/gamedevmaster_g3_2324/tree/main)
 
-🥊 Hobo-League (Solo Project - In Progress)
+<h2>🥊Hobo-League (Solo Project - In Progress)
 Third-Person Multiplayer Casual Game
-
+</h2>
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4e419f50-f1aa-4b61-9c8b-96b1464a5ca5" />
 
 📖*Description*: Stand up against those sadists machines through the pain of the trials and earn your freedom.
