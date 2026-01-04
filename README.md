@@ -8,7 +8,7 @@
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/367db763-43b3-4e24-adb2-5939e429f503" />](https://steamcommunity.com/id/ItsGonso/)
 
 🚀 About Me
-I am a dedicated Gameplay Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD University and a Master's Degree in Unity. My goal is to create memorable, unique player experiences that redifine the games as we know it. My top 5 games of all times must be: Fallout New Vegas, The Last of Us, Dark Souls, Persona 5 and Inazuma Eleven.
+I am a dedicated Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD University and a Master's Degree in Unity. My goal is to create memorable, unique player experiences that redifine the games as we know it. My top 5 games of all times must be: Fallout New Vegas, The Last of Us, Dark Souls, Persona 5 and Inazuma Eleven.
 
 🗝️Key Skills:
 
@@ -18,7 +18,7 @@ Engines: Unreal Engine 5, Unity.
 
 🗣️Languages: C++, C#, Java, PL/SQL.
 
-🎖️Specialties: GAS framework, Gameplay Systems and Combat Design
+🎖️Specialties: GAS framework, gameplay systems and combat design
 
 🏆 Featured Projects
 -------------------
