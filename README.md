@@ -98,8 +98,10 @@ Third-Person Action Game
 --------------------
 Educational Projects
 --------------------
-->UTAD Projects
-->MasterD Projects
+[UI Project](https://github.com/maltrak007/Unreal-UI-Project/tree/master/UI_GonzaloLinanAldana-master) | Unreal Engine
+
+Unity Projects
+
 ---------------------------------
 🎓 Education & Certifications
 
