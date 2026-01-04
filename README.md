@@ -1,18 +1,18 @@
 # Gonzalo Linan Aldana Programmer & Designer
-"Lifelong gamer turned creator, dedicated to crafting unique experiences. I aim to contribute to the gaming world by developing titles that offer the same level of immersion and joy that define who I am today."
+*"Lifelong gamer turned creator, dedicated to crafting unique experiences. I aim to contribute to the gaming world by developing titles that offer the same level of immersion and joy that define who I am today."*
 
-🕹️Social Networks
+<h3>🕹️Social Networks</h3>
 
 [<img width="50" height="50" alt="174857" src="https://github.com/user-attachments/assets/b0d0bc12-3202-470a-9a1f-5734d7e077aa" />](https://www.linkedin.com/in/gonzalo-liñan-aldana-934283221/)
 &nbsp;&nbsp;&nbsp;
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/367db763-43b3-4e24-adb2-5939e429f503" />](https://steamcommunity.com/id/ItsGonso/)
 
-🚀 About Me
-I am a dedicated Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD University and a Master's Degree in Unity. My goal is to create memorable, unique player experiences that redifine the games as we know it. My top 5 games of all times must be: Fallout New Vegas, The Last of Us, Dark Souls, Persona 5 and Inazuma Eleven.
+<h3> 🚀About Me</h3>
 
-🗝️Key Skills:
+I am a 25 year's old dedicated Programmer and Designer with a Master’s Degree in Videogame Programming from U-TAD University and a Master's Degree in Unity. My goal is to create memorable, unique player experiences that redifine the games as we know it. 
+My top 5 games of all times must be: Fallout New Vegas, The Last of Us, Dark Souls, Persona 5 and Inazuma Eleven.
 
-Soft Skills: High Efficiency, Collaborative Communication, Enthusiastic Problem Solver.
+🗝️Key Skills: Soft Skills: High Efficiency, Collaborative Communication, Enthusiastic Problem Solver.
 
 Engines: Unreal Engine 5, Unity.
 
@@ -79,8 +79,9 @@ Third-Person Multiplayer Casual Game
 -------------------
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/66bf9113-8ce4-42cd-8099-5492c173e528" /> Unity
 -------------------
-🪄 Monster Evicter (Unity Project)
+<h2>🪄 Monster Evicter (Unity Project)
 Third-Person Action Game
+</h2>
 
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/f585f409-1829-4a47-be0a-f188f0af6962" />
 
