@@ -47,7 +47,9 @@ Best University Game at BIG Conference Bilbao & Second Place At Guerilla Games F
 
 &nbsp;&nbsp;&nbsp;-Created modular library tasks to allow rapid iteration of enemy variants.
 
-[View Repository](https://github.com/gamedevmaster/gamedevmaster_g3_2324/tree/main)
+[View Repository](https://github.com/maltrak007/GonzaloLinanGhunterCode)
+
+[For whole project](https://github.com/gamedevmaster/gamedevmaster_g3_2324/tree/main)
 
 🥊 Hobo-League (Solo Project - In Progress)
 Third-Person Multiplayer Casual Game
